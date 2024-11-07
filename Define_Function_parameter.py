@@ -3,6 +3,8 @@
 price = 59
 text = (f"The Price is {price}")
 print(text)
+#Output 
+#The Price is 59
 def Happy_Birthday(name):
     print(f"Happy Birthday {name}")
 #While defining Function we can make to do like as below
@@ -14,3 +16,6 @@ def happy_birthday(name,age):
     print(f"Happy Birthday {name}")
     print(f"You Turned {age} Today!!")
 happy_birthday("Susan",32)
+#Output 
+#Happy Birthday Susan
+#You Turned 32 Today
