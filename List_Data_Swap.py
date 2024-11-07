@@ -4,3 +4,5 @@
 list = ['b','c',92]
 list[1] = 'chuck'
 print(list)
+#Output
+#['b','chuck',92]
